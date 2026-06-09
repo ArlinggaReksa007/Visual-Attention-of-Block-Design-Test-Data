@@ -1,6 +1,6 @@
 # Visual-Attention-of-Block-Design-Test-Data
 
-This repository provides supplementary experimental outputs associated with the proposed visual attention assessment framework for the Block Design Test (BDT). The repository contains visual attention recordings, generated graphs, adjacency matrices, and visualization outputs used during the evaluation process.
+This repository provides supplementary experimental outputs associated with the proposed visual attention assessment framework for the Block Design Test (BDT). The repository contains visual attention recordings, and similarity matrix.
 
 ---
 
