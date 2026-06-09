@@ -17,7 +17,7 @@ The repository is intended to support reproducibility and provide additional exp
 The following animation illustrates a participant's gaze transition sequence during the Block Design Test.
 
 <p align="center">
-  <img src="GIF/Participant.gif" width="700">
+  <img src="Participant.gif" width="700">
 </p>
 
 The animation demonstrates how visual attention moves between Areas of Interest (AOIs), including the target design and block manipulation regions.
